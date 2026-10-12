@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #eedceb;
+    text-align: center;
+    padding: 25px 0;
+}
+
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    color: #b83083;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border: 1px solid #810d64;
+    border-radius: 30px;
+}
+
+nav a:hover{
+    background-color: #810d64;
+    color: #fff;
+}
+
+.t1{
+    width: 1650px;
+    height: 300px;
+}
+
+.t2{
+    width: 800px;
+    height: 300px;
+}
+
+.t3{
+    width: 1650px;
+    height: 300px;
+}
